@@ -1,7 +1,10 @@
 # digital-literacy-project-
 Name: Paridhi Rathi
+
 Registration No.: 25BAI11559
+
 Branch : B.Tech CSE (AI ML) 
+
 Year : 1st year 
 
 **Project Overview**
